@@ -143,11 +143,12 @@ The ```processClick``` prop will execute the ```Game.processClick()``` method wh
 
 
 Access the GitHub repository [here]([https://github.com/j0serobles/clicky_game](https://github.com/j0serobles/clicky_game)).
-Access the deployed game [here]
+Access the deployed game [here]([https://j0serobles.github.io/clicky_game/](https://j0serobles.github.io/clicky_game/)).
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTczNTg5NSwyMDQ2NDE1NDAyLC0xNT
-U3NDE2NDkzXX0=
+eyJoaXN0b3J5IjpbLTE0ODQyMzcxNTksMjA0NjQxNTQwMiwtMT
+U1NzQxNjQ5M119
 -->
