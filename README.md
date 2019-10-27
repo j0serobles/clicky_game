@@ -120,8 +120,8 @@ src/icons.json:
 },
 ...
 ```
-
+At startup, the Game is initially rendered, and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NTMyMjIsMjA0NjQxNTQwMiwtMTU1Nz
-QxNjQ5M119
+eyJoaXN0b3J5IjpbMTA1MjYzNzMyMiwyMDQ2NDE1NDAyLC0xNT
+U3NDE2NDkzXX0=
 -->
