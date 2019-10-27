@@ -100,8 +100,28 @@ src/components/Game.js:
 import  icons  from  "../../icons.json";
 . . . 
 ```
+src/icons.json:
+```
+[{
+"id": 1,
+"name": "SpongeBob",
+"image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+"occupation": "Fry Cook",
+"location": "A Pineapple Under the Sea",
+"isClicked" : false
+},
+{
+"id": 2,
+"name": "Mr. Krabs",
+"image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+"occupation": "Restaurant Owner",
+"location": "A Giant Anchor",
+"isClicked" : false
+},
+...
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjY3OTk1MSwyMDQ2NDE1NDAyLC0xNT
-U3NDE2NDkzXX0=
+eyJoaXN0b3J5IjpbMjk2NTMyMjIsMjA0NjQxNTQwMiwtMTU1Nz
+QxNjQ5M119
 -->
