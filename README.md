@@ -133,8 +133,11 @@ location={icon.location}
 />
 . . . 
 ```
-The ```processClick``` prop will execute the 
+The ```processClick``` prop will execute the ```Game.processClick()``` method when an icon is clicked.  This method will:
+
+ - Update the element in the ```[icons```] array, setting the ```isClicked``` attribut
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MjQxNzE0LDIwNDY0MTU0MDIsLTE1NT
+eyJoaXN0b3J5IjpbMTcxNTM4MTQ2LDIwNDY0MTU0MDIsLTE1NT
 c0MTY0OTNdfQ==
 -->
