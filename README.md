@@ -79,7 +79,7 @@ click_game
 ```
 ## Application Design
 
-[Rendered game page](https://github.com/j0serobles/clicky_game/blob/master/doc/homepage.jpg)
+![Rendered game page](https://github.com/j0serobles/clicky_game/blob/master/doc/homepage.jpg)
 The image shows the application's components when rendered.  The most important component is the "Game" component, as it is the one where the game state is saved:
 
 src/components/Game.js:
@@ -149,6 +149,6 @@ Access the deployed game [here]([https://j0serobles.github.io/clicky_game/](http
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQyMzcxNTksMjA0NjQxNTQwMiwtMT
-U1NzQxNjQ5M119
+eyJoaXN0b3J5IjpbLTg5Mjk0MTE0LC0xNDg0MjM3MTU5LDIwND
+Y0MTU0MDIsLTE1NTc0MTY0OTNdfQ==
 -->
