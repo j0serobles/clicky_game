@@ -78,10 +78,12 @@ click_game
                 style.css
 ```
 ## Application Design
-The image shows the application's components when rendered.  The most important component 
+
+[R](https://github.com/j0serobles/clicky_game/blob/master/doc/homepage.jpg)
+The image shows the application's components when rendered.  The most important component is the "Game" component, as it is the one where the game state is saved. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYzMTc4NDksMjA0NjQxNTQwMiwtMT
+eyJoaXN0b3J5IjpbLTEwNjE5MTAxNzAsMjA0NjQxNTQwMiwtMT
 U1NzQxNjQ5M119
 -->
