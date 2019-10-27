@@ -120,8 +120,21 @@ src/icons.json:
 },
 ...
 ```
-At startup, the Game is initially rendered, and 
+At startup, the Game is initially rendered, and each icon is displayed in an ```<IconCard>``` component:
+```{  this.state.icons.map( icon  => (
+<IconCard
+processClick={ () =>  this.processClick(icon.id) }
+id={icon.id}
+key={icon.id}
+name={icon.name}
+image={icon.image}
+occupation={icon.occupation}
+location={icon.location}
+/>
+. . . 
+```
+The ```processClick``` prop will execute the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjYzNzMyMiwyMDQ2NDE1NDAyLC0xNT
-U3NDE2NDkzXX0=
+eyJoaXN0b3J5IjpbOTI0MjQxNzE0LDIwNDY0MTU0MDIsLTE1NT
+c0MTY0OTNdfQ==
 -->
