@@ -6,12 +6,15 @@ Clicky-Game is a front-end application built with the React javascript library. 
  - Reusable components
  - Event handling 
  - Bootstrap CSS/HTML/JS framework.
- - A purely front-end application, no back-end used. 
-How to Play
+ - Cloud deployment of a React application. 
+ 
+
+## How to Play
+Access the 
 File directory structure
 Application Design
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTQxNTgwMF19
+eyJoaXN0b3J5IjpbMTg1NzQ0MzY2XX0=
 -->
