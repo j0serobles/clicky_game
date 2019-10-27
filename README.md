@@ -10,11 +10,12 @@ Clicky-Game is a front-end application built with the React javascript library. 
  
 
 ## How to Play
-Access the 
+Access the deployed application 
+ 
 File directory structure
 Application Design
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzQ0MzY2XX0=
+eyJoaXN0b3J5IjpbNDI3Njk0NTM4XX0=
 -->
