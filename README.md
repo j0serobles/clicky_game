@@ -18,9 +18,10 @@ The application shows 12 thumbnail images in a grid,   The purpose of the game i
 
 
 File directory structure
+
 Application Design
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNzExOTczXX0=
+eyJoaXN0b3J5IjpbLTE1NTc0MTY0OTNdfQ==
 -->
