@@ -82,6 +82,7 @@ click_game
 [Rendered game page](https://github.com/j0serobles/clicky_game/blob/master/doc/homepage.jpg)
 The image shows the application's components when rendered.  The most important component is the "Game" component, as it is the one where the game state is saved:
 
+src/components/Game.js:
 ```
 class  Game  extends  React.Component {
   state  = {
@@ -92,10 +93,15 @@ class  Game  extends  React.Component {
 }
 . . . 
 ```
-The "icons" attribute is an array of 12 elements:
+The "icons" attribute is an array of 12 elements, imported into the "Game" component via:
 
+src/components/Game.js:
+```
+import  icons  from  "../../icons.json";
+. . . 
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQwNTE4NDksMjA0NjQxNTQwMiwtMT
-U1NzQxNjQ5M119
+eyJoaXN0b3J5IjpbMTk1MjY3OTk1MSwyMDQ2NDE1NDAyLC0xNT
+U3NDE2NDkzXX0=
 -->
