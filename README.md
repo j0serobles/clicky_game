@@ -137,11 +137,14 @@ The ```processClick``` prop will execute the ```Game.processClick()``` method wh
 
  - Update the element in the ```[icons```] array, setting the ```isClicked``` attribute to true.
  - Shuffle the elements in the ```[icons]``` array. 
- - Update the status message and score board components. 
+ - Update the state of the currentScore, topScore, statusMessage and scoreBoard components. 
+ 
+ The process repeats for each click by the user. 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU1MDYyNDYsMjA0NjQxNTQwMiwtMT
+eyJoaXN0b3J5IjpbLTE1NDU1Mzk5OTQsMjA0NjQxNTQwMiwtMT
 U1NzQxNjQ5M119
 -->
