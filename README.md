@@ -78,9 +78,10 @@ click_game
                 style.css
 ```
 ## Application Design
-
+The image shows the application's components when rendered.  The most important component 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjQxNTQwMiwtMTU1NzQxNjQ5M119
+eyJoaXN0b3J5IjpbLTEwMTYzMTc4NDksMjA0NjQxNTQwMiwtMT
+U1NzQxNjQ5M119
 -->
